@@ -8,12 +8,12 @@ Web Developer
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ML/AI
 - 📫 How to reach me
- <br /> [<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)">]() [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]()
+ <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">]() [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]() [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">]() [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">]()
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
 ### I code in
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000">
 
 
 <!---
