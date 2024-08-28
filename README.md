@@ -13,6 +13,11 @@ Web Developer
 - ⚡ Fun fact: I know Japanese.
 
 ### I code in
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000">
 
 
