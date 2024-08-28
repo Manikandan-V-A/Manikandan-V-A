@@ -8,9 +8,7 @@ Web Developer
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ML/AI
 - 📫 How to reach me
- <br />
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]() [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]()
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
