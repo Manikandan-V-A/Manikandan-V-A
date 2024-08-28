@@ -18,7 +18,7 @@ Web Developer
 
 ### IDE and Tools I Use
 
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000"> <img width="" height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <!---
 Manikandan-V-A/Manikandan-V-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
