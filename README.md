@@ -15,11 +15,11 @@ Web Developer
 ### I code in
 
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000">
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000">
 
 ### IDE and Tools I Use
 
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000"> <img width="" height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000"> <img width="" height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> 
 
 ### 💻 Workspace Spec
 
