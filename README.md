@@ -15,7 +15,7 @@ Web Developer
 ### I code in
 
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000">
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000" width="35" height="35" style="padding: 5;" />
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" width="35" height="35" />
 
 
 ### IDE and Tools I Use
