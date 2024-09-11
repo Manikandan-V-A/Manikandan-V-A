@@ -1,8 +1,7 @@
 ## Hi there 👋 It's me Manikandan
 
-Web Developer
-
-<img width="370" height="290" aling="right" src="https://camo.githubusercontent.com/915e6281309b9bc4cfbfb650f5e32593dc34d468a3a9f4a2f8874cc0b1535418/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" >
+Software Engineer @ Zoho Corporation
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [Portfolio](https://manikandan-ashok.netlify.app)
 - 🌱 I’m currently learning DSA
